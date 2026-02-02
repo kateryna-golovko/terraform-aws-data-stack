@@ -1,2 +1,5 @@
-# terraform-aws-data-stack
-Terraform-managed AWS data infrastructure.
+# Terraform AWS Data Stack
+
+Infrastructure as code project using Terraform.
+
+This repository will provision AWS resources for a simple data platform.
